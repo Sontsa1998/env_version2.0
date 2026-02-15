@@ -1,0 +1,6 @@
+.kiro/
+.pytest_cache/
+.vscode/
+.coverage
+exercice_evaluation.md
+.venv/
